@@ -32,6 +32,7 @@ This project aims to simulate a smart assistant that can be integrated into webs
 
 
 📈 Future Enhancements
+
 🖼️ Frontend chat interface (React or HTML/CSS)
 
 🌐 Deployment on platforms like Render/Railway
@@ -41,12 +42,17 @@ This project aims to simulate a smart assistant that can be integrated into webs
 🔧 Multilingual support
 
 📃 License
+
 This project is licensed under the MIT License — feel free to use, modify, and distribute it.
 
 👩‍💻 Author
+
 Akanksha Deshmukh
+
 📍 Pune, Maharashtra
+
 🌐 https://www.linkedin.com/in/akanksha-deshmukh-26210b244/
+
 📧 akankshadeshmukh308@gmail.com
 
 
