@@ -53,7 +53,7 @@ Akanksha Deshmukh
 
 🌐 https://www.linkedin.com/in/akanksha-deshmukh-26210b244/
 
-📧 akankshadeshmukh308@gmail.com
+📧 akankshadeshmukh651@gmail.com
 
 
 
